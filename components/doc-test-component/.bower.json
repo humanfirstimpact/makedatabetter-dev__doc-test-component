@@ -1,0 +1,24 @@
+{
+  "name": "doc-test-component",
+  "main": "doc-test-component.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.4.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^1.0.0",
+    "web-component-tester": "^4.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  },
+  "homepage": "https://github.com/makedatabetter-dev/doc-test-component",
+  "_release": "cd461854c8",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "cd461854c8259c63da1020c8c53974a7823eae0a"
+  },
+  "_source": "https://github.com/makedatabetter-dev/doc-test-component.git",
+  "_target": "master",
+  "_originalSource": "makedatabetter-dev/doc-test-component",
+  "_direct": true
+}
